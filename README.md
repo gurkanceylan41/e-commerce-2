@@ -21,6 +21,4 @@ This is a simple e-commerce application built with React and Redux Toolkit. It a
 - [Fake Store API](https://fakestoreapi.com)
 
 ## Screen Gif :
-
-![Uygulamanın Tanıtımı](./assets/images/my-animation.gif)
-# e-commerce-2
+![my-animation](https://github.com/user-attachments/assets/81cb694c-201d-4361-9d6d-b3620df726c3)
